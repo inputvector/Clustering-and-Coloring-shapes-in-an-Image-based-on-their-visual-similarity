@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
 # ## Visual Similarity Clustering in an Image
 
 # In[1]:
